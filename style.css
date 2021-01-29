@@ -1,0 +1,48 @@
+#pizza{
+    height: 50pt;
+    width: 50pt;
+}
+body{
+    background-color: rgb(44, 49, 49);
+}
+h1{
+    color: rgb(228, 113, 122);
+    font-weight: bold;
+   
+}
+p{
+color: wheat;
+font-weight: bolder;
+font-size: 25pt;
+}
+#display_menu{
+    height: 150pt;
+    width: 300pt;
+    border-width: 5px;
+    border-color: darkred;
+    border-style: solid;
+    background-color: crimson;
+    color: white;
+    font-size: 50pt;
+    font-weight: bold;
+}
+#addmenu{
+    height: 150pt;
+    width: 300pt;
+    border-width: 5px;
+    border-color: rgb(224, 248, 7);
+    border-style: solid;
+    background-color: rgb(187, 209, 87);
+    color: white;
+    font-size: 50pt;
+    font-weight: bold;
+}
+#rec{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15pt;
+    height: 100pt;
+    width: 200pt;
+    background-color: greenyellow;
+    color: white;
+}
